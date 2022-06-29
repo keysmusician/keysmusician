@@ -9,23 +9,60 @@
  |___|___|___|___|___|___|___|___|___|___|___|___|___|___|/   
  
 </pre>
-<p><span style="font-family: 'Lucida Console'; line-height: 14px; font-size: 14px; display: inline-block;">&nbsp;</span></p>
 
 I'm a software engineer currently studying machine learning. I'm also a jazz pianist. I hope to produce music which inspires and encourages people. I'm interested in the intersection of music and technology. I enjoy learning, and I'm happy to pick up new technologies.
 
-<h2 align="center">🤖 🎹</h2>
+## Technologies
+I'm most familiar with:
+
+* Python
+* JavaScript
+* C
+* C++
+* Bash
+
+<h2>&nbsp;</h2>
+
+<div align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img src="https://github-readme-stats.vercel.app/api?username=keysmusician&theme=gotham&show_icons=true&hide_title=true">
+        </a>
+</div>
+
+<h3></h3>
+
+<div align="center">
+        <a href="https://github.com/keysmusician">
+                <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+        <a href="https://www.instagram.com/justinmasayda/">
+                <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+        </a>
+        <a href="https://twitter.com/JustinMasayda">
+                <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+        </a>
+        <a href="https://www.linkedin.com/in/justin-masayda-630164130/">
+                <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
+        <a href="https://medium.com/@justinmasayda">
+                <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&Color=black">
+        </a>
+        <a href="https://soundcloud.com/justinmasayda">
+                <img alt="SoundCloud" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white">
+        </a>
+        <a href="https://music.youtube.com/channel/UCrQKYrjbeIciklLC4_e_fzA">
+                <img alt="YouTube Music" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
+        </a>
+</div>
 
 
-<pre align="center">
-![GitHub followers](https://img.shields.io/github/followers/keysmusician?color=%2300CB05&label=Github&style=for-the-badge)
-</pre>
 <!--
 Cool image, preferably animated (example: https://github.com/Raymo111/Raymo111 | https://github.com/arturssmirnovs | https://github.com/jayrajroshan | https://github.com/alwinw | https://github.com/DenverCoder1)
 
 What technologies do you know? (see this: https://softwareengineering.stackexchange.com/questions/15004/at-which-point-do-you-know-a-technology-enough-to-list-it-on-a-resume)
-Languages: C, C++, JS, Python, Bash (example: https://github.com/Theemiss/Theemiss/blob/main/README.md | https://github.com/MacroPower#macropower-tech)
+(example: https://github.com/Theemiss/Theemiss/blob/main/README.md | https://github.com/MacroPower#macropower-tech)
 
-What do you want to learn? JUCE, VST3 SDK, 
+What do you want to learn? JUCE, VST3 SDK, R
 What projects do you want to build? VSTs, Fauna call generator, ML music genre and/or timbre classifier
 
 - 🔭 I’m currently working on ... [projects]
@@ -36,16 +73,7 @@ What projects do you want to build? VSTs, Fauna call generator, ML music genre a
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
-Stats
-
-Music highlight:
-(example: https://github.com/andyruwruw/andyruwruw)
-
-Social Links
-
 Sponsor button
 
-ASCII piano
-
-Other inspiration: https://github.com/DenverCoder1 | https://github.com/coderjojo/creative-profile-readme/blob/master/EXAMPLES/jatiinyadav.png | https://github.com/jjeanjacques10
+Other inspiration: https://github.com/DenverCoder1 | https://github.com/coderjojo/creative-profile-readme/blob/master/EXAMPLES/jatiinyadav.png | https://github.com/jjeanjacques10 | https://dev.to/envoy_/150-badges-for-github-pnk | https://github.com/andyruwruw/andyruwruw
 -->
