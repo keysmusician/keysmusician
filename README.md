@@ -10,7 +10,7 @@
  
 </pre>
 
-I'm a software engineer currently studying machine learning. I'm also a jazz pianist. I hope to produce music which inspires and encourages people. I'm interested in the intersection of music and technology. I enjoy learning, and I'm happy to pick up new technologies.
+I'm a software engineer currently studying machine learning. I prefer backend over frontend development. I'm also a jazz pianist. I hope to produce music which inspires and encourages people. I'm interested in the intersection of music and technology. I enjoy learning, and I'm happy to pick up new technologies.
 
 ## Technologies
 I'm most familiar with:
@@ -20,6 +20,18 @@ I'm most familiar with:
 * C
 * C++
 * Bash
+
+I'm currently learning:
+
+* Reinforcement learning
+
+I'm interested in learning:
+
+* JUCE Framework
+* VST3 SDK
+* Java
+* Rust
+... and much more!
 
 <h2>&nbsp;</h2>
 
@@ -62,7 +74,6 @@ Cool image, preferably animated (example: https://github.com/Raymo111/Raymo111 |
 What technologies do you know? (see this: https://softwareengineering.stackexchange.com/questions/15004/at-which-point-do-you-know-a-technology-enough-to-list-it-on-a-resume)
 (example: https://github.com/Theemiss/Theemiss/blob/main/README.md | https://github.com/MacroPower#macropower-tech)
 
-What do you want to learn? JUCE, VST3 SDK, R
 What projects do you want to build? VSTs, Fauna call generator, ML music genre and/or timbre classifier
 
 - 🔭 I’m currently working on ... [projects]
