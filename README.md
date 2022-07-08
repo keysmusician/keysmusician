@@ -1,6 +1,7 @@
-<h1 align="center">Hi, I'm Justin!</h1>
+<div align="center">
+<h1>Hi, I'm Justin!</h1>
 
-<pre align="center">
+<pre>
         _   _       _   _   _       _   _       _   _   _     
     ___//|_//|_____//|_//|_//|_____//|_//|_____//|_//|_//|___ 
    /  /// ///  /  /// /// ///  /  /// ///  /  /// /// ///  / |
@@ -9,6 +10,7 @@
  |___|___|___|___|___|___|___|___|___|___|___|___|___|___|/   
  
 </pre>
+</div>
 
 I'm a software engineer currently studying machine learning. I prefer backend over frontend development. I'm also a jazz pianist. I hope to produce music which inspires and encourages people. I'm interested in the intersection of music and technology. I enjoy learning, and I'm happy to pick up new technologies.
 
