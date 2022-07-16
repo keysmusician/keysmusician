@@ -12,7 +12,7 @@
 </pre>
 </div>
 
-I'm a software engineer currently studying machine learning. I prefer backend over frontend development. I'm also a jazz pianist. I hope to produce music which inspires and encourages people. I'm interested in the intersection of music and technology. I enjoy learning, and I'm happy to pick up new technologies.
+I'm a software engineer currently studying machine learning. I prefer backend over frontend development. I'm also a jazz pianist and music producer. I hope to produce music which inspires and encourages people. I'm interested in the intersection of music and technology. I enjoy learning, and I'm happy to pick up new technologies.
 
 ## Technologies
 I'm most familiar with:
