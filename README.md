@@ -21,7 +21,6 @@ I'm most familiar with:
 * JavaScript
 * C
 * C++
-* Bash
 
 I'm currently learning:
 
