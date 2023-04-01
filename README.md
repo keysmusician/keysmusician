@@ -19,11 +19,11 @@ I'm most familiar with:
 
 * Python
 * JavaScript
-* C
 * C++
 
 I'm currently learning:
 
+* SolidJS
 * Digital Signal Processing
 
 I'm interested in learning:
