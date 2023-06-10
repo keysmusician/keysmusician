@@ -19,12 +19,14 @@ I'm most familiar with:
 
 * Python
 * JavaScript
+* TypeScript
 * C++
 
 I'm currently learning:
 
 * SolidJS
 * Digital Signal Processing
+* Machine Learning
 
 I'm interested in learning:
 
@@ -36,11 +38,13 @@ I'm interested in learning:
 
 <h2>&nbsp;</h2>
 
+<!--
 <div align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
                 <img src="https://github-readme-stats.vercel.app/api?username=keysmusician&theme=gotham&show_icons=true&hide_title=true">
         </a>
 </div>
+-->
 
 <h3></h3>
 
