@@ -18,15 +18,14 @@ I'm a software engineer specialized in machine learning and with a passion for m
 I'm most familiar with:
 
 * Python
-* JavaScript
 * TypeScript
 * C++
+* Dart
 
 I'm currently learning:
 
-* SolidJS
+* Flutter
 * Digital Signal Processing
-* Machine Learning
 
 I'm interested in learning:
 
