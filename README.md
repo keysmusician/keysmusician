@@ -31,9 +31,8 @@ I'm interested in learning:
 
 * JUCE Framework
 * VST3 SDK
-* Java
-* Rust
-... and much more!
+* Programming languages with unique paradigms
+* Embedded programming
 
 <h2>&nbsp;</h2>
 
