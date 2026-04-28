@@ -18,21 +18,19 @@ I'm a software engineer specialized in machine learning and with a passion for m
 I'm most familiar with:
 
 * Python
+* C#
 * TypeScript
 * C++
 * Dart
 
 I'm currently learning:
 
-* Flutter
-* Digital Signal Processing
+* Cyber security
 
 I'm interested in learning:
 
-* JUCE Framework
-* VST3 SDK
-* Programming languages with unique paradigms
-* Embedded programming
+* Digital Signal Processing
+* Functional programming languages
 
 <h2>&nbsp;</h2>
 
